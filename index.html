@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Banana on the Wall
 ---
 
 <div id="home">
@@ -11,3 +11,32 @@ title: Your New Jekyll Site
     {% endfor %}
   </ul>
 </div>
+{% paginator.total_pages > 1 %}
+  <div id="post-pagination" class="pagination">
+  {% if paginator.previous_page %}
+    <p class="previous">
+      {% if paginator.previous_page == 1 %}
+        <a href="/">&#8592; Newer Posts</a>
+      {% else %}
+        <a href="/{{ paginator.previous_page_path }}">&#8592; Newer Posts</a>
+      {% endif %}
+    </p>
+  {% else %}
+    <!-- <p class="previous disabled">
+      <span>Previous</span>
+    </p> -->
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <p class="next">
+      <a href="/{{ paginator.next_page_path }}">Older Posts &#8594;</a>
+    </p>
+  {% else %}
+    <!-- <p class="next disabled">
+      <span>Next</span>
+    </p> -->
+  {% endif %}
+
+
+</div><!-- endPagination links -->
+{% endif %}
