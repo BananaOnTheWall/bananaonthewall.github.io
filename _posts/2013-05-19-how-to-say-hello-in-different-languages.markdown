@@ -22,3 +22,5 @@ Italian: Ciao
 Japanese: Konnichiwa
 
 Greek: Yassou
+
+Chinese: Nihao
