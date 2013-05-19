@@ -1,7 +1,4 @@
-bananaonthewall.github.io
-=========================
-
-#Welcome Here
+#Banana on the Wall
 
 A blog neither on banana nor wall.
 
