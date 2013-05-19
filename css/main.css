@@ -67,6 +67,7 @@ ul.posts span {
   font-size: 150%;
   text-align: justify;
   width: 85%;
+  max-width: 1145px;
   margin: 2em auto 2em;
   padding-top: 1em;
   line-height: 1.5em;
