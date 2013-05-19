@@ -29,12 +29,34 @@
         <div class="container">
           <div class="site">
             <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">home</a>
+              <h1 class="title"><a href="/">< {{ site.name }} /></a></h1>
+              <nav id="top-nav"><a class="extra" href="/">home</a></nav>
             </div>
      
                 {{ content }}
+            <div class="sidebar">
+              <div class="about">
+                <p><img class="profile" src="/images/banana.jpg" alt=""></p>
+                <p>This blog is neither on banana nor wall. This is going to be a personal blog that is not always about geeky stuff. But if you keep checking it once in a while you may see photos of my wife, children and dog.</p>
+              </div>
+            </div>
+            {% if page.title contains "Banana on the Wall" %}
+            <section id="paging">
+              {% if paginator.previous_page %}
+                {% if paginator.previous_page == 1 %}
+                  <a href="/">&lArr; Previous Page</a>
+                {% else %}
+                  <a href="/{{ paginator.previous_page_path }}">&lArr; Previous Page</a>
+                {% endif %}
+              {% endif %}
 
+              Page {{ paginator.page }} of {{ paginator.total_pages }}
+
+              {% if paginator.next_page %}
+                <a href="/{{ paginator.next_page_path }}">Next Page &rArr;</a>
+              {% endif %}
+            </section>
+            {% endif %}
             <div class="footer">
               <p>Do people really read stuff on footer?</p>
             </div>
