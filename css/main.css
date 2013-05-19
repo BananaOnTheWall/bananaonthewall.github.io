@@ -225,3 +225,52 @@ nav#top-nav {
 .sidebar img.profile{
   border-radius:200px;
 }
+
+
+
+
+@media only screen and (max-width: 1024px) {
+  
+#home {
+width: 65%;
+overflow: hidden;
+float: left;
+}
+
+.sidebar {
+width: 25%;
+float: right;
+max-width: 260px;
+text-align: left;
+font-size: 90%;
+margin-top: -5em;
+}
+
+#post {
+width: 65%;
+float: left;
+max-width: 801px;
+}
+
+}
+
+
+@media only screen and (max-width: 600px) {
+
+  #home {
+width: 100%;
+overflow: hidden;
+float: left;
+}
+
+.sidebar {
+display: none;
+}
+
+#post {
+width: 100%;
+float: left;
+max-width: 801px;
+}
+
+}
