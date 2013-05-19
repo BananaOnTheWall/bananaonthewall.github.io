@@ -128,6 +128,7 @@ ul.posts span {
 #post {
   width: 70%;
   float: left;
+  max-width: 801px;
 }
 
 #post pre {
@@ -168,6 +169,7 @@ ul.posts span {
 #home #post {
   width: 100%;
   margin-bottom: 3em;
+  max-width: 801px;
 }
 
 #home {
