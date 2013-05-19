@@ -273,7 +273,7 @@ float: left;
 max-width: 801px;
 }
 
-h1.title {
+.site .header h1.title {
 display: inline-block;
 font-size: 1.2em;
 }
