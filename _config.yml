@@ -1,2 +1,4 @@
 name: Banana on the Wall
 pygments: true
+permalink: blog/:title/
+paginate: 15
