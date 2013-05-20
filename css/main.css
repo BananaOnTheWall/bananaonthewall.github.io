@@ -190,6 +190,10 @@ nav#top-nav {
   margin-bottom: 3.2em;
 }
 
+#top-nav a {
+margin: 0 25px 0 0;
+}
+
 #home #post a {
   color: black;
   text-decoration: none;
