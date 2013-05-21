@@ -3,7 +3,7 @@ layout: post
 title:  如何更有效率
 date:   2013-05-21 22:46:20
 categories: translation productivity
-excerpt: 本文翻译自已逝的 Aaron Swartz 官方博客的同名文章，希望可以对包括我自己在内的青年人有所启发。文中涵盖了很多有趣而又被广泛关注的问题，比如如何在工作中更有效率，如何对抗拖延症，如何应对枯燥的工作等等。我个人很喜欢这篇文章，感觉收益颇丰，所以把它翻译成了中文，希望能够帮到更多的读者。
+excerpt: 本文翻译自已逝的 Aaron Swartz 私人博客的同名文章，希望可以对包括我自己在内的青年人有所启发。文中涵盖了很多有趣而又被广泛关注的问题，比如如何在工作中更有效率，如何对抗拖延症，如何应对枯燥的工作等等。我个人很喜欢这篇文章，感觉收益颇丰，所以把它翻译成了中文，希望能够帮到更多的读者。
 ---
 原文：[HOWTO: Be more productive](http://www.aaronsw.com/weblog/productivity)
 
