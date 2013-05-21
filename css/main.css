@@ -165,7 +165,10 @@ ul.posts span {
 
 #post h2 {
   font-size: 1.8em;
-  margin: 1em 0 15px;
+}
+
+#post h3 {
+  margin: 1em 0;
 }
 
 #home #post {
