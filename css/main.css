@@ -22,7 +22,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; 
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-  margin: 1em 0;
 }
 
 h1 { margin-bottom: 1em; }
@@ -166,6 +165,7 @@ ul.posts span {
 
 #post h2 {
   font-size: 1.8em;
+  margin: 1em 0 15px;
 }
 
 #home #post {
