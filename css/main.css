@@ -26,9 +26,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
-
-p.meta {font-family: 'Open Sans', sans-serif;}
-
 a         { color: #f43f20; }
 a:hover   { color: white; background-color: #f43f20; }
 
@@ -88,6 +85,7 @@ ul.posts span {
 
 .site .meta {
   color: #aaa;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .site .footer {
