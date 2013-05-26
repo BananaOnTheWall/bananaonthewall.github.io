@@ -13,3 +13,7 @@ excerpt: This is a 7-day challenge I assign to myself on a random basis. I will 
 3. 100 sit-ups per day
 4. 90 push-ups per day
 5. muscle stretcing per day
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
+2013-05-25: drunk soda, pigged out for dinner, and skipped all workouts. You sucker!!!
