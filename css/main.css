@@ -218,7 +218,7 @@ margin: 0 25px 0 0;
 .sidebar {
   width: 30%;
   float: right;
-  max-width: 260px;
+  max-width: 250px;
   text-align: left;
   font-size: 90%;
   margin-top: -5em;
@@ -250,7 +250,7 @@ float: left;
 .sidebar {
 width: 25%;
 float: right;
-max-width: 260px;
+max-width: 250px;
 text-align: left;
 font-size: 90%;
 margin-top: -5em;
