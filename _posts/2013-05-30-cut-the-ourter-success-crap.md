@@ -18,7 +18,7 @@ I have problems with you.
 
 If you run a startup, you should cut the habit of reading stuff like that every day. Below is why:
 
-##1\. They don't read them
+###1\. They don't read them
 
 I don't believe in money but I am going to admit it: having money is better than not; having more money is generally better than less.
 
@@ -28,7 +28,7 @@ They sit down and work their ass off.
 
 Plus, a little or a lot of luck.
 
-##2. They distract you
+###2. They distract you
 
 Money, or success is tempting. You can easily get lost in all sorts of them and don't know who you are and what you should do.
 
@@ -36,7 +36,7 @@ Money, or success is tempting. You can easily get lost in all sorts of them and 
 
 No you shouldn't. You are good at something else.
 
-##3. They don't admit they are lucky
+###3. They don't admit they are lucky
 
 Successful people work hard, but that doesn't mean you are guaranteed to be successful if you work hard.
 
