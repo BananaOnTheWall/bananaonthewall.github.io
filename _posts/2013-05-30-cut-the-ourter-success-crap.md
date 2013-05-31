@@ -12,7 +12,7 @@ Like this guy made a product that was sold for millions, that dude launched some
 
 Stuff like that.
 
-Don't get me wrong. I have no problems with those successful people.
+Don't get me wrong. I have no problems with successful people.
 
 I have problems with you.
 
