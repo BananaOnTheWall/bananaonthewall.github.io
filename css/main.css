@@ -17,6 +17,7 @@ body {
   font: 13.34px 'Droid Serif', serif;
   font-size: small;
   text-align: center;
+  color: rgb(51, 51, 50);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -174,7 +175,7 @@ ul.posts span {
 }
 
 #post h3 {
-  margin: 1em 0;
+  margin: 1.5em 0 1em;
   font-size: 1.5em;
 }
 
