@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cut the Outer Success Crap
-date:   site.time
+date: 2013-05-30 12:11:11
 tags: thinking
 ---
 Internet is a darn noisy place. Every day, you eyes are bombed by all sorts information that flows down your desktop.
