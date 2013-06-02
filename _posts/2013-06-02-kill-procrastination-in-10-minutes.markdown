@@ -26,7 +26,7 @@ But how the hell can I improve my willpower? Should I press my finger on a hot c
 
 That may work for some people, but not me. I don't want to force myself to do anything. Being forced, either by others or yourself, will only make things worse.
 
-Actually being forced to do something, either by yourself or others, is one of the top reasons why people procrastinate.
+Actually being forced is one of the top reasons why people procrastinate.
 
 There should be a better, and happier way.
 
