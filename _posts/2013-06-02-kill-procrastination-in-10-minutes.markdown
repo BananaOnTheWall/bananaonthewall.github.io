@@ -42,7 +42,9 @@ Step 3 - We **finish the tasks**. We feel relieved, usually with a sense of acco
 
 ###3\. Why People Procrastinate?
 
-Now, after repeating the process a few times, our brain learns and remembers the process. It will release the negative feelings **BEFORE** you really start to start to work on the tasks, namely between Step 1 and Step 2.
+Now, after repeating the process a few times, our brain learns and remembers the process. It will release the negative feelings **BEFORE** you really to start to work on the tasks - bad feelings now show up not when you actually do things but when you plan to!
+
+Then procrastination happens.
 
 I don't know why, maybe some sort of self-protection mechanism of the human body.
 
