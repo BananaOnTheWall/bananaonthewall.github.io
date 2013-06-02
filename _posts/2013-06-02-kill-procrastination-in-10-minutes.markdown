@@ -56,7 +56,7 @@ The solution I figured out myself was actually very simple. Since I can't force 
 
 And it's not hard to find - there it is: the sense of accomplishment, in Step 3!
 
-Now henever I get haunted by the negative feelings, and want to procrastinate again, I tell myself: “If you complete it, you will feel happy. ”
+Now whenever I get haunted by the negative feelings, and want to procrastinate again, I tell myself: “If you complete it, you will feel happy. ”
 
 Instead of being scared by the negative feelings in Step 2, I ask my brain to directly skip to positive feelings in Step 3. 
 
