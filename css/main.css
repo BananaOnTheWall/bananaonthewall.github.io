@@ -222,12 +222,12 @@ margin: 0 25px 0 0;
 /*sidebar*/
 
 .sidebar {
-  width: 30%;
+  width: 23%;
   float: right;
   max-width: 250px;
   text-align: left;
   font-size: 90%;
-  margin-top: -5em;
+  margin-top: -6.5em;
 }
 
 .sidebar p {
