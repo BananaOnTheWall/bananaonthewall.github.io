@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  Kill Procrastination in Ten Minutes
-excerpt: I am no psychologist. What makes me think myself qualified to give tips on fight procrastination is only the fact that I procrastinated myself like hell, and I have managed to make it a lot better now
+excerpt: I am no psychologist. What makes me think myself qualified to give tips on fighting procrastination is only the fact that I procrastinated myself like hell, and I have managed to make it a lot better now
 tags: thinking
 ---
 Most of the time a title like this is a clear indicator the post is full of crap. But trust me, this one is not.
 
-But i want to clarify - I am no psychologist. What makes me think myself qualified to give tips on fight procrastination is only the fact that I procrastinated myself like hell, and I have managed to make it a lot better now.
+But i want to clarify - I am no psychologist. What makes me think myself qualified to give tips on fighting procrastination is only the fact that I procrastinated myself like hell, and I have managed to make it a lot better now.
 
 So this article is basically a patient-to-patient talk.
 
