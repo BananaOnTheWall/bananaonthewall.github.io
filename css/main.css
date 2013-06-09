@@ -270,6 +270,27 @@ margin: 0 25px 0 0;
   text-decoration: none;
 }
 
+@media only screen and (max-width: 1920px) {
+  
+.header {
+height: 950px;
+}
+
+.site .header h1.title {
+display: inline-block;
+font-size: 5.9em;
+margin-top: 30%;
+}
+
+}
+
+@media only screen and (max-width: 1280px) {
+  
+.site .header h1.title {
+font-size: 5em;
+}
+
+}
 
 @media only screen and (max-width: 1024px) {
   
