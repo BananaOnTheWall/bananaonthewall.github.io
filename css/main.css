@@ -270,7 +270,7 @@ margin: 0 25px 0 0;
   text-decoration: none;
 }
 
-@media only screen and (max-width: 1920px) {
+@media only screen and (min-width: 1440px) and (max-width: 1920px) {
   
 .header {
 height: 950px;
@@ -288,6 +288,7 @@ margin-top: 30%;
   
 .site .header h1.title {
 font-size: 5em;
+margin-top: 20%;
 }
 
 }
@@ -306,6 +307,7 @@ height: 500px;
 
 .site .header h1.title {
 font-size: 4.2em;
+margin-top: 20%;
 }
 
 .sidebar {
