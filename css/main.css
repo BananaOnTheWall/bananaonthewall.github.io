@@ -279,13 +279,20 @@ overflow: hidden;
 float: left;
 }
 
+.header {
+height: 500px;
+}
+
+.site .header h1.title {
+font-size: 4.2em;
+}
+
 .sidebar {
 width: 25%;
 float: right;
 max-width: 250px;
 text-align: left;
 font-size: 90%;
-margin-top: -5em;
 }
 
 #post {
