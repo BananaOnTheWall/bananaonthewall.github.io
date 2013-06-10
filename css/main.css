@@ -95,7 +95,7 @@ ul.posts span {
 }
 
 .site .header a:hover {
-  border-bottom: 2px solid white;
+  border-bottom: none;
   background-color: transparent;
 }
 
