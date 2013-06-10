@@ -152,6 +152,7 @@ ul.posts span {
   width: 70%;
   float: left;
   max-width: 801px;
+  font-size: 18px;
 }
 
 #post pre {
