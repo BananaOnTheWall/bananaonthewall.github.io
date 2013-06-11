@@ -2,7 +2,7 @@
 layout: post
 title:  I Know I Shouldn't be Silent
 date: 2013-06-04 23:05:20
-excerpt: I know I shouldn't be silent, but neither do I know what to say. 
+excerpt: I know I shouldn’t be silent, but I don’t know what to say.
 tags: thinking
 ---
 I know I shouldn't be silent, but I don't know what to say.
