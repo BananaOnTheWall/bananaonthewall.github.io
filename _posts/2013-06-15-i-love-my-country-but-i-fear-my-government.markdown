@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Love My County But I Fear My Government
+title: I Love My Country But I Fear My Government
 date: 2013-06-15
 excerpt: 【美国人的公民意识】我热爱我的国家，但警惕我的政府，人权比主权更重要；自由比爱国更实际；法律比总统更可靠；民生比政治更符合需求；教育能让人看到希望。公民挑剔政府和批评其政策，便是爱国。
 tags: thinking
