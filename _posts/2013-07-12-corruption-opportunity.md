@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 是不是因为我自己也想吃蛋糕就不能骂抢蛋糕的人了？
+title: 因为我自己也想吃蛋糕就不能骂抢蛋糕的人了？
 date: 2013-07-12
 excerpt: 喂你过来下，让我狠抽你100下大嘴巴。
 tags: thoughts
