@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 因为我自己也想吃蛋糕就不能骂抢蛋糕的人了？
+title: 消灭特权的方式就是让每个人多有特权
 date: 2013-07-12
 excerpt: 喂你过来下，让我狠抽你100下大嘴巴。
 tags: thoughts
