@@ -110,6 +110,8 @@ ul.posts span {
 .site .meta {
   color: #aaa;
   font-family: 'Open Sans', sans-serif;
+  font-size: 0.8em;
+  margin-top: 0.5em;
 }
 
 .site .footer {
