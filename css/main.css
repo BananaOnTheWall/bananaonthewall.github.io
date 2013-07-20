@@ -78,8 +78,7 @@ ul.posts span {
 .site {
   font-size: 130%;
   text-align: left;
-  width: 75%;
-  max-width: 950px;
+  width: 950px;
   margin: 2em auto 2em;
   padding-top: 1em;
   line-height: 1.5em;
