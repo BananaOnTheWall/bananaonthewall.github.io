@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', sans-serif;
 }
 
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 0.7em; }
 p { margin: 1em 0; }
 a         { color: #f43f20; }
 a:hover   { color: white; background-color: #f43f20; }
