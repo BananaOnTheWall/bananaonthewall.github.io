@@ -18,8 +18,7 @@ body {
   font-size: small;
   text-align: center;
   color: rgb(51, 51, 50);
-  background-size: 100% auto;
-  background-repeat: no-repeat;
+  border-top: 8px solid #FFCC00;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -29,8 +28,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 { margin-bottom: 0.7em; }
 p { margin: 1em 0; }
-a         { color: #f43f20; }
-a:hover   { color: white; background-color: #f43f20; }
+a         { color: #333332;; }
+a:hover   { color: white; background-color: #333332; }
 
 table {
   font-size: inherit;
@@ -95,7 +94,7 @@ ul.posts span {
 .site .header a {
   font-weight: bold;
   text-decoration: none;
-  color: #1abc9c;
+  color: #333332;
 }
 
 .site .header a:hover {
@@ -105,7 +104,7 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
-  font-size: 5.7em;
+  font-size: 3.7em;
   margin-top: 3%;
 }
 
@@ -117,7 +116,7 @@ ul.posts span {
 .site .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 4px solid #FFCC00;
   margin-top: 2em;
   overflow: hidden;
   float: left;
@@ -191,7 +190,7 @@ ul.posts span {
 
 #post h2 {
   font-size: 1.4em;
-  color: #1abc9c;
+  color: #333332;
 }
 
 #post h3 {
@@ -224,14 +223,13 @@ margin: 0 25px 0 0;
 }
 
 #home #post a {
-  color: #1abc9c;
+  color: #333332;
   text-decoration: none;
 }
 
 #home #post a:hover {
-  color: black;
+  color: #b3b3b1;
   background-color: transparent;
-  border-bottom: 2px solid black;
 }
 
 #paging {
