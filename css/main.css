@@ -95,7 +95,7 @@ ul.posts span {
 .site .header a {
   font-weight: bold;
   text-decoration: none;
-  color: #34495e;
+  color: #1abc9c;
 }
 
 .site .header a:hover {
@@ -191,6 +191,7 @@ ul.posts span {
 
 #post h2 {
   font-size: 1.4em;
+  color: #1abc9c;
 }
 
 #post h3 {
@@ -223,7 +224,7 @@ margin: 0 25px 0 0;
 }
 
 #home #post a {
-  color: black;
+  color: #1abc9c;
   text-decoration: none;
 }
 
