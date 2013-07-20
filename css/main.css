@@ -89,7 +89,7 @@ ul.posts span {
 
 .header {
   text-align: center;
-  height: 670px;
+  height: 230px;
 }
 
 .site .header a {
@@ -279,94 +279,4 @@ margin: 0 25px 0 0;
 .cse .gsc-control-cse, .gsc-control-cse {
 padding: 0 !important;
 width: auto;
-}
-
-@media only screen and (min-width: 1440px) and (max-width: 1920px) {
-  
-.header {
-height: 950px;
-}
-
-.site .header h1.title {
-display: inline-block;
-font-size: 5.9em;
-margin-top: 30%;
-}
-
-}
-
-@media only screen and (max-width: 1280px) {
-  
-.site .header h1.title {
-font-size: 5em;
-margin-top: 20%;
-}
-
-}
-
-@media only screen and (max-width: 1024px) {
-  
-#home {
-width: 65%;
-overflow: hidden;
-float: left;
-}
-
-.header {
-height: 500px;
-}
-
-.site .header h1.title {
-font-size: 4.2em;
-margin-top: 20%;
-}
-
-.sidebar {
-width: 25%;
-float: right;
-max-width: 250px;
-text-align: left;
-font-size: 90%;
-}
-
-#post {
-width: 65%;
-float: left;
-max-width: 801px;
-}
-
-}
-
-
-@media only screen and (max-width: 800px) {
-
-  #home {
-width: 100%;
-overflow: hidden;
-float: left;
-}
-
-.header {
-height: 350px;
-}
-
-.sidebar {
-display: none;
-}
-
-#post {
-width: 100%;
-float: left;
-max-width: 801px;
-}
-
-.site .header h1.title {
-display: inline-block;
-font-size: 2.2em;
-}
-
-#post h2 {
-font-size: 1.2em;
-}
-
 }
