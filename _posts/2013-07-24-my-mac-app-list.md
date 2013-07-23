@@ -2,7 +2,7 @@
 layout: post
 title: Mac 应用推荐 － 我的 Mac App 列表
 date: 2013-07-24
-excerpt: <img src="/images/my-mac-apps-small.png" />我自己的常用 Mac 列表，不定期更新。如果你也有些珍藏 app，欢迎拿出来和大家分享 :)
+excerpt: <img src="/images/my-mac-apps-small.png" /><p>我自己的常用 Mac 列表，不定期更新。如果你也有些珍藏 app，欢迎拿出来和大家分享 :)</p>
 tags: apps
 ---
 我自己的常用 Mac 列表，不定期更新。最后更新时间：2013-07-24
