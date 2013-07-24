@@ -156,56 +156,56 @@ ul.posts span {
 
 /* standard */
 
-#post {
+.post {
   width: 70%;
   float: left;
   max-width: 801px;
 }
 
-#post pre {
+.post pre {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
 }
 
-#post ul, #post ol {
+.post ul, .post ol {
   margin-left: 1.35em;
 }
 
-#post code {
+.post code {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
 }
 
-#post pre code {
+.post pre code {
   border: none;
 }
 
 /* terminal */
-#post pre.terminal {
+.post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
 }
 
-#post pre.terminal code {
+.post pre.terminal code {
   background-color: #333;
 }
 
-#post h2 {
+.post h2 {
   font-size: 1.4em;
   color: #333332;
 }
 
-#post h3 {
+.post h3 {
   margin: 1.5em 0 1em;
   font-size: 1.3em;
 }
 
-#home #post {
+#home .post {
   width: 100%;
-  margin-bottom: 3em;
+  margin-bottom: 2em;
   max-width: 801px;
 }
 
@@ -227,12 +227,12 @@ nav#top-nav {
 margin: 0 25px 0 0;
 }
 
-#home #post a {
+#home .post a {
   color: #333332;
   text-decoration: none;
 }
 
-#home #post a:hover {
+#home .post a:hover {
   color: #b3b3b1;
   background-color: transparent;
 }
@@ -264,6 +264,10 @@ margin: 0 25px 0 0;
 
 .sidebar img.profile{
   border-radius:200px;
+}
+
+.sidebar .about {
+  margin-top: 10px;
 }
 
 #blogroll, #search {
