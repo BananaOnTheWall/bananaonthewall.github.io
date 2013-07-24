@@ -213,7 +213,6 @@ ul.posts span {
   width: 70%;
   overflow: hidden;
   float: left;
-  padding-top: 10px;
 }
 
 /* Nav */
@@ -267,7 +266,7 @@ margin: 0 25px 0 0;
 }
 
 .sidebar .about {
-  margin-top: 10px;
+  margin-top: -5px;
 }
 
 #blogroll, #search {
