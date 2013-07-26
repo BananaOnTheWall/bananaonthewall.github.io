@@ -2,7 +2,7 @@
 layout: post
 title: Mac 应用推荐 － 我的 Mac App 列表
 date: 2013-07-24
-excerpt: <img class="excerpt-img" src="/images/my-mac-apps-small.png" /><p>我自己的常用 Mac 列表，不定期更新。如果你也有些珍藏 app，欢迎拿出来和大家分享 :)</p>
+excerpt: Mac 凭借起强大工业设计标准和良好的开发氛围，已经吸引了越来越多的顶级软件公司加入 Mac 开发者的阵营。本文是我自己的常用 Mac 列表，不定期更新。如果你也有些珍藏 app，欢迎拿出来和大家分享 :)
 tags: apps
 ---
 我自己的常用 Mac 列表，不定期更新。最后更新时间：2013-07-24
