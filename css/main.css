@@ -17,7 +17,7 @@ body {
   font: 13.34px 'Droid Serif', serif;
   font-size: small;
   text-align: center;
-  color: rgb(51, 51, 50);
+  color: rgb(100, 100, 100);
   border-top: 8px solid #FFCC00;
 }
 
@@ -116,6 +116,13 @@ ul.posts span {
   font-family: 'Open Sans', sans-serif;
   font-size: 0.8em;
   margin-top: 0.5em;
+}
+
+.site .post p {
+    line-height: 1.5;
+    color: #4e5860;
+    word-spacing: 1.2px;
+    margin-bottom: 30px;
 }
 
 .site .footer {
