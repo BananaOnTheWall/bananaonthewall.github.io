@@ -115,7 +115,7 @@ ul.posts span {
 .site .meta {
   color: #aaa;
   font-family: 'Open Sans', sans-serif;
-  font-size: 0.8em !important;
+  font-size: 0.8em;
   margin-top: 0.5em;
 }
 
@@ -124,8 +124,7 @@ ul.posts span {
     color: #4e5860;
     word-spacing: 1.2px;
     margin-bottom: 30px;
-    font-size: 16px;
-}
+  }
 
 .site .footer {
   font-size: 80%;
