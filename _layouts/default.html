@@ -75,14 +75,14 @@
                 {% if paginator.previous_page == 1 %}
                   <a href="/">&lArr; Previous Page</a>
                 {% else %}
-                  <a href="/{{ paginator.previous_page_path }}">&lArr; Previous Page</a>
+                  <a href="{{ paginator.previous_page_path }}">&lArr; Previous Page</a>
                 {% endif %}
               {% endif %}
 
               Page {{ paginator.page }} of {{ paginator.total_pages }}
 
               {% if paginator.next_page %}
-                <a href="/{{ paginator.next_page_path }}">Next Page &rArr;</a>
+                <a href="{{ paginator.next_page_path }}">Next Page &rArr;</a>
               {% endif %}
             </section>
             {% endif %}
