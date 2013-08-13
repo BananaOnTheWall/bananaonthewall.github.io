@@ -18,15 +18,15 @@ C 语言对我来说是个新东西，因为我以前学的是 Python，两者�
 
 {% highlight python %}
 
-\>>> result = [[0,0]] * 3
+>>> result = [[0,0]] * 3
 
-\>>> result
+>>> result
 
 [[0, 0], [0, 0], [0, 0]]
 
-\>>> result[0][0] = 3
+>>> result[0][0] = 3
 
-\>>> result
+>>> result
 
 [[3, 0], [3, 0], [3, 0]]
 
@@ -38,15 +38,15 @@ C 语言对我来说是个新东西，因为我以前学的是 Python，两者�
 
 {% highlight python %}
 
-\>>> id(result[0])
+>>> id(result[0])
 
 4483497856
 
-\>>> id(result[1])
+>>> id(result[1])
 
 4483497856
 
-\>>> id(result[2])
+>>> id(result[2])
 
 4483497856
 
@@ -58,27 +58,27 @@ C 语言对我来说是个新东西，因为我以前学的是 Python，两者�
 
 {% highlight python %}
 
-\>>> newlist = [[1,2] for i in range(3)]
+>>> newlist = [[1,2] for i in range(3)]
 
-\>>> newlist
+>>> newlist
 
 [[1, 2], [1, 2], [1, 2]]
 
-\>>> newlist[0][0] = 33
+>>> newlist[0][0] = 33
 
-\>>> newlist
+>>> newlist
 
 [[33, 2], [1, 2], [1, 2]]
 
-\>>> id(newlist[0])
+>>> id(newlist[0])
 
 4483622744
 
-\>>> id(newlist[1])
+>>> id(newlist[1])
 
 4483622888
 
-\>>> id(newlist[2])
+>>> id(newlist[2])
 
 4483622960
 
