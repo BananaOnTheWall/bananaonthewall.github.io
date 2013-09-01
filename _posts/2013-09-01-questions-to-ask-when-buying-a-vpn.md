@@ -3,7 +3,7 @@ layout: post
 title:  Questions to Ask When Buying a VPN
 date:   2013-09-01 22:46:20
 tags: vpn
-excerpt: This article serves as a simple guide on things you need to take into consideration when buying a VPN service, if you care about privacy and personal data safety.
+excerpt: This article serves as a simple guide on things you need to take into consideration when buying a VPN service, if you care about privacy and personal data safety. But I'd like to give a heads-up to the readers, if any, this article will not walk you through how VPN works or other technical details regarding the structure of a virtual private network, due to the fact that my knowledge is very much limited in this area.
 ---
 This article serves as a simple guide on things you need to take into consideration when buying a VPN service, if you care about privacy and personal data safety.
 
