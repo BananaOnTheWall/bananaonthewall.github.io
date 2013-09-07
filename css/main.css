@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 0.7em; }
 p { margin: 1em 0; }
 a         { color: #333332;; }
-a:hover   { color: white; background-color: #333332; }
+a:hover   { color: white; background-color: #ef6c5e; }
 
 table {
   font-size: inherit;
@@ -253,12 +253,12 @@ margin: 0 25px 0 0;
 }
 
 #home .post a {
-  color: #333332;
+  color: #777777;
   text-decoration: none;
 }
 
 #home .post a:hover {
-  color: #b3b3b1;
+  color: #4ba0bf;
   background-color: transparent;
 }
 
