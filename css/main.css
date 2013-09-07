@@ -120,10 +120,12 @@ ul.posts span {
 }
 
 .site .post p {
-    line-height: 1.5;
+    line-height: 32px;
     color: #4e5860;
     word-spacing: 1.2px;
     margin-bottom: 30px;
+    font-family: 20px;
+    font-family: 'Droid Serif', serif;
   }
 
 .site .footer {
