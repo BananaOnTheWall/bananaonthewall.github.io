@@ -317,9 +317,9 @@ width: auto;
 }
 
 @media screen and (max-width: 1024px){
-  #home {
+    .post {
         width: 90%;
-        overflow: hidden;
+        max-width: 801px;
         margin: 0 auto;
     }
 }
