@@ -315,3 +315,11 @@ margin: 0 25px 0 0;
 padding: 0 !important;
 width: auto;
 }
+
+@media screen and (max-width: 1024px){
+  #home {
+        width: 90%;
+        overflow: hidden;
+        margin: 0 auto;
+    }
+}
