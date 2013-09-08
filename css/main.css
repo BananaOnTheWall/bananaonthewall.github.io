@@ -317,7 +317,19 @@ width: auto;
 }
 
 @media screen and (max-width: 1024px){
+    #home .post {
+        width: 100%;
+        max-width: 801px;
+        margin: 0 auto;
+    }
+
     .post {
+        width: 90%;
+        max-width: 801px;
+        margin: 0 auto;
+    }
+
+    #home {
         width: 90%;
         max-width: 801px;
         margin: 0 auto;
