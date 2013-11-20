@@ -126,8 +126,9 @@ ul.posts span {
     word-spacing: 1.2px;
     margin-bottom: 25px;
     font-size: 20px;
-    font-family: 'Droid Serif', serif;
-  }
+    font-family: Avenir, 'Droid Serif', serif;
+    letter-spacing: 0.5px;
+}
 
 .site .footer {
   font-size: 80%;
