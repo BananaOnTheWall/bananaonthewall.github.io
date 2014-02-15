@@ -8,11 +8,11 @@ permalink:        /:title.html
 # Setup
 title:            Banana On The Wall
 tagline:          'a blog neither on banana nor wall'
-description:      'This blog is neither on banana nor wall. This is going to be a personal blog that is not always about geeky stuff. But if you keep checking it once in a while you may see photos of my wife, children and dog.'
+description:      'a blog neither on banana nor wall'
 url:              http://blog.thatboy.me
 
 author:
-  name:           'Banana'
+  name:           'Oda'
   url:            http://blog.thatboy.me
 
 paginate:         5
