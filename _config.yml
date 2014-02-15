@@ -3,22 +3,15 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        /:title.html
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+name: Banana On The Wall
+description: This blog is neither on banana nor wall. This is going to be a personal blog that is not always about geeky stuff. But if you keep checking it once in a while you may see photos of my wife, children and dog.
+url: http://blog.thatboy.me
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jacob'
+  url:            http://blog.thatboy.me
 
-paginate:         1
-
-# Custom vars
-version:          1.0.0
-
-github:
-  repo:           https://github.com/poole/poole
+paginate:         8
