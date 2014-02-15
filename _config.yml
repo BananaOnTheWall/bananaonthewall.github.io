@@ -6,12 +6,13 @@ pygments:         true
 permalink:        /:title.html
 
 # Setup
-name: Banana On The Wall
-description: This blog is neither on banana nor wall. This is going to be a personal blog that is not always about geeky stuff. But if you keep checking it once in a while you may see photos of my wife, children and dog.
-url: http://blog.thatboy.me
+title:            Banana On The Wall
+tagline:          'a blog neither on banana nor wall'
+description:      'This blog is neither on banana nor wall. This is going to be a personal blog that is not always about geeky stuff. But if you keep checking it once in a while you may see photos of my wife, children and dog.'
+url:              http://blog.thatboy.me
 
 author:
-  name:           'Jacob'
+  name:           'Banana'
   url:            http://blog.thatboy.me
 
-paginate:         8
+paginate:         5
