@@ -92,8 +92,8 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  margin-top: 1.5rem;
   font-size: 1.25rem;
+  margin: 1.5rem 0;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -234,6 +234,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 0.7rem;
   font-weight: 300;
+  color: white;
 }
 
 
