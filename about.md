@@ -2,6 +2,8 @@
 layout: page
 title: About
 ---
+x x x x
+
 Well, I am not the type of guy that gives a flood of blah when being asked "tell me a little bit about yourself". But since I am setting up an About Me page, it would be rude to leave this page blank.
 
 My name is Jacob and I work & live in Shanghai, China, working for one of the major 4A advertising companies.
