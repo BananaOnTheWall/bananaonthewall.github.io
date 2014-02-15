@@ -1,62 +1,26 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}{% unless page.title contains "Banana On The Wall" %} | Banana On The Wall{% endunless %}</title>
-        <meta name="viewport" content="width=device-width">
-        <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/BananaOnTheWall" />
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700|Droid+Serif' rel='stylesheet' type='text/css'>
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-        <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  {% include head.html %}
 
-  ga('create', 'UA-40726307-2', 'thatboy.me');
-  ga('send', 'pageview');
+  <body>
 
-</script>
-<link rel="Shortcut Icon" href="/favicon.png" type="image/x-icon" />
-    </head>
-    <body>
+    <div class="container content">
+      <div class="masthead">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">{{ site.title }}</a>
+          <small>{{ site.tagline }}</small>
+        </h3>
+      </div>
 
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <nav id="top-nav"><a class="extra" href="/">home</a><a class="extra" href="/about.html">about</a><a class="extra" href="/my-mac-app-list.html">apps</a><a class="extra" href="/guestbook.html">guestbook</a></nav>
-            </div>
-     
-                {{ content }}
-            
-            {% if page.title contains "Banana On The Wall" %}
-            <section id="paging">
-              {% if paginator.previous_page %}
-                {% if paginator.previous_page == 1 %}
-                  <a href="/">&lArr; Previous Page</a>
-                {% else %}
-                  <a href="{{ paginator.previous_page_path }}">&lArr; Previous Page</a>
-                {% endif %}
-              {% endif %}
+      {{ content }}
 
-              Page {{ paginator.page }} of {{ paginator.total_pages }}
+      <div class="footer">
+        <p>
+          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        </p>
+      </div>
+    </div>
 
-              {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path }}">Next Page &rArr;</a>
-              {% endif %}
-            </section>
-            {% endif %}
-            <div class="footer">
-              <p>Do people really read the stuff on footer?</p>
-            </div>
-          </div>
-        </div> <!-- /container -->
-
-    </body>
+  </body>
 </html>
