@@ -2,29 +2,18 @@
 layout: page
 title: About
 ---
+Well, I am not the type of guy that gives a flood of blah when being asked "tell me a little bit about yourself". But since I am setting up an About Me page, it would be rude to leave this page blank.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Jacob and I work & live in Shanghai, China, working for one of the major 4A advertising companies.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Believe or not, my daily job has nothing to do with anything technical, and the most complicated software I use at work every day are Microsoft Office and Skype. That's it.
 
-There are currently two themes built on Poole:
+I learn and practice programming in my spare time, because, well, I believe brain is like muscle. If you don't use it much, it'll get floppy.</p> 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+And I don't like floppy things.
+    
+To sum it up, most of the stuff here will be about programming, but you can also see random thoughts and rants. Maybe the latter will even take a larger percent.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+If you keep following this blog, you may be lucky enough to see photos of my wife, children and dog.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Oh, by "programming", I mean writing ugly pieces of codes that I lock in my drawer I'm too shy to show other people.
