@@ -60,6 +60,8 @@ html {
   background-color: #202020;
   background-image: url(../bg-big.jpg);
   background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
 }
 @media (min-width: 48rem) {
   .sidebar {
