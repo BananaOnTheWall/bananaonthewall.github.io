@@ -263,11 +263,17 @@ a.sidebar-nav-item:focus {
 }
 
 ::selection {
-  background-color: #f57b6d;
-  color: white;
+  background-color: #FFF5CB;
 }
 
 ::-moz-selection {
-  background-color: #f57b6d;
-  color: white;
+  background-color: #FFF5CB;
 }
+
+.post a:hover {
+  background-color: #FFF5CB;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+
