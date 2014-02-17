@@ -261,3 +261,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+::selection {
+  background-color: #f57b6d;
+  color: white;
+}
+
+::-moz-selection {
+  background-color: #f57b6d;
+  color: white;
+}
