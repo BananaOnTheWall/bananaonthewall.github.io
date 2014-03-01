@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  如何删除 iBook 中的已购买书籍
+title:  如何删除Mac OSX 10.9 iBook 中的已购买书籍
 date:   2014-2-28 12:46:20
 tags: mac
 ---
-Mac OSX 最新的系统版本 Mavericks 中添加了 iBooks 这个应用，可以让用户方便的在 Mac 上阅读和管理自己的 iBook 中得书籍。
+Mac OSX 最新的系统版本 OSX 10.9 Mavericks 中添加了 iBooks 这个应用，可以让用户方便的在 Mac 上阅读和管理自己的 iBook 中得书籍。
 
 ![image](http://that-boy.qiniudn.com/images/ibook.png)
 
