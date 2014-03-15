@@ -33,3 +33,7 @@ tags: blah
 人总是这山望着那山高。好吧这也不算啥问题，但真正的问题是，你一辈子能翻几座山啊？
 
 我只要开心就好。
+
+最后，来碗鸡汤 - 【人生不是马拉松】
+
+<embed src="http://player.youku.com/player.php/sid/XNjc2ODg1NDI4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
