@@ -10,7 +10,7 @@ Today I decided to cancel my Evernote Premium subscription. The only reason why 
 
 So I cancelled the subscription and my premium features will remain active until the end of the current billing circle.
 
-To my surprise, I found my wife's account, which is a free account and has gone premium, can now share editable notebooks with me too.
+To my surprise, I found my wife's account, which is a free account and has never gone premium, can now share editable notebooks with me too.
 
 I googled a little bit and found these two posts in the forum of Evernote:
 
